@@ -1,0 +1,8 @@
+DS Test Menu
+6
+MENU "Start" "play.mnu"
+MENU "Options" "opt.mnu"
+MENU "Help" "help.mnu"
+OPTION "Data Structures Project 2B"
+OPTION "Full Sail"
+OPTION "Game Design and Development"
