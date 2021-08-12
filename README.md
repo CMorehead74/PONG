@@ -2,7 +2,9 @@
 A different twist to PONG (Pac-man themed)
 
 ========================================================================
+
     WIN32 APPLICATION : Pong Project Overview
+    
 ========================================================================
 
 
@@ -27,6 +29,7 @@ Pong.cpp
     This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
+
 AppWizard has created the following resources:
 
 Pong.rc
@@ -49,6 +52,7 @@ small.ico
     file Pong.rc.
 
 /////////////////////////////////////////////////////////////////////////////
+
 Other standard files:
 
 StdAfx.h, StdAfx.cpp
